@@ -3,7 +3,7 @@ import {
   HeartPulse, Menu, X, ChevronDown, Calendar,
   Users, BarChart2, Brain, ArrowRight, Plus
 } from "lucide-react";
-import { defaultAreaProps } from "recharts/types/cartesian/Area";
+
 
 const PRODUCTS = [
   { icon: Calendar, label: "Smart Scheduling", desc: "AI-powered bookings", color: "#0ea5e9", page: "appointments" },
